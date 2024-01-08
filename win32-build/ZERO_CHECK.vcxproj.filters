@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\win32-build\CMakeFiles\31261f215a58589cac866db50f7c207e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{45AB9E3D-C644-3562-B35D-454CC8C7196E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

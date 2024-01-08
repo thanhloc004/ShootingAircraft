@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\loctt\OneDrive\Documents\GitHub\VTCA\ShootingAircraft\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{DDE2B191-647B-3F54-B07E-6DAE6B1A496D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{63669820-D01E-37B7-AE3B-277D1AB1E2E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{974C0B9C-F465-3565-ABB4-5C4D87F35555}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A58A647E-B24B-3053-A2FF-2A5284F93602}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{B8CD3F90-0ABC-3386-A403-CE220F7064AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{E127EDE7-5912-33C0-8BE3-FD7FFA5AA706}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
